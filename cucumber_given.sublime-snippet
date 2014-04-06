@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Given(/^${1:regex}\$/) ${2:do}
+end
+]]></content>
+  <tabTrigger>given</tabTrigger>
+</snippet>
